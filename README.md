@@ -23,4 +23,5 @@ Below is a presentation for results in class assignments
 * anthony.mutuku@students.moringaschool.com
 
 # Licence
-MIT License 
+MIT 
+Copyright (c) 2021 Erastus Njoroge
